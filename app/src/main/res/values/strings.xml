@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TransferDataTest</string>
+    <string name="TextView">TextView</string>
+
+</resources>
